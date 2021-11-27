@@ -15,3 +15,6 @@ Simple purpose
 Deployment is in progress
 
 ## How to Contribute
+
+### Copyright
+2021 git training.
