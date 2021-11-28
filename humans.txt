@@ -10,6 +10,7 @@
 
     <name>
     All my students
+    Please leave a review.
 
 # TECHNOLOGY COLOPHON
 
