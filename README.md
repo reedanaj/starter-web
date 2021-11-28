@@ -21,4 +21,4 @@ Deployment is in progress
 Please fork this repository and then issue Pull requests for review.
 
 ### Copyright
-2021 git training.
+2021 git training. All right reserved.
